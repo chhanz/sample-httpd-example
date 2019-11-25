@@ -1,5 +1,4 @@
 # OpenShift Source To Image Example (html source)
-* * *
 ### Create new app
 ```bash
 $ oc new-app httpd~https://github.com/chhanz/sample-httpd-example.git
@@ -39,3 +38,6 @@ the core functionality. These can range from server-side programming language su
 ![create-app](https://chhanz.github.io/assets/images/post/2019-11-29-openshift-4/test1.png)
 ![create-app-2](https://chhanz.github.io/assets/images/post/2019-11-29-openshift-4/test2.png)
 ![create-app-3](https://chhanz.github.io/assets/images/post/2019-11-29-openshift-4/test3.png)
+
+### Document
+[https://chhanz.github.io/openshift/2019/11/25/openshift4-dev-env/](https://chhanz.github.io/openshift/2019/11/25/openshift4-dev-env/)
