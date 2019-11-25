@@ -1,7 +1,6 @@
-# README
-## OpenShift Source To Image Example (html source)
+# OpenShift Source To Image Example (html source)
+* * *
 ### Create new app
-Create app.
 ```bash
 $ oc new-app httpd~https://github.com/chhanz/sample-httpd-example.git
 ```
